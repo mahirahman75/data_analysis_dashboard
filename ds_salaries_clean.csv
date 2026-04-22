@@ -1,0 +1,399 @@
+Unnamed: 0,Year,Experience Level,Employment Type,Job Title,Salary (USD),Employee Country,Remote Ratio,Company Country,Company Size,Salary Range,US Company
+1,2020,Senior,Full-Time,Machine Learning Scientist,260000,JP,On-Site,JP,Small,$200K+,International
+3,2020,Mid-Level,Full-Time,Product Data Analyst,20000,HN,On-Site,HN,Small,Under $60K,International
+4,2020,Senior,Full-Time,Machine Learning Engineer,150000,US,Hybrid,US,Large,$150K–$200K,US
+5,2020,Entry-Level,Full-Time,Data Analyst,72000,US,Fully Remote,US,Large,$60K–$100K,US
+6,2020,Senior,Full-Time,Lead Data Scientist,190000,US,Fully Remote,US,Small,$150K–$200K,US
+8,2020,Mid-Level,Full-Time,Business Data Analyst,135000,US,Fully Remote,US,Large,$100K–$150K,US
+9,2020,Senior,Full-Time,Lead Data Engineer,125000,NZ,Hybrid,NZ,Small,$100K–$150K,International
+13,2020,Mid-Level,Full-Time,Lead Data Analyst,87000,US,Fully Remote,US,Large,$60K–$100K,US
+14,2020,Mid-Level,Full-Time,Data Analyst,85000,US,Fully Remote,US,Large,$60K–$100K,US
+15,2020,Mid-Level,Full-Time,Data Analyst,8000,PK,Hybrid,PK,Large,Under $60K,International
+19,2020,Mid-Level,Full-Time,Lead Data Engineer,56000,PT,Fully Remote,US,Medium,Under $60K,US
+23,2020,Mid-Level,Full-Time,BI Data Analyst,98000,US,On-Site,US,Medium,$60K–$100K,US
+24,2020,Mid-Level,Full-Time,Lead Data Scientist,115000,AE,On-Site,AE,Large,$100K–$150K,International
+25,2020,Executive,Full-Time,Director of Data Science,325000,US,Fully Remote,US,Large,$200K+,US
+26,2020,Entry-Level,Full-Time,Research Scientist,42000,NL,Hybrid,NL,Large,Under $60K,International
+28,2020,Entry-Level,Contract,Business Data Analyst,100000,US,Fully Remote,US,Large,$100K–$150K,US
+31,2020,Entry-Level,Full-Time,Big Data Engineer,70000,US,Fully Remote,US,Large,$60K–$100K,US
+33,2020,Mid-Level,Full-Time,Research Scientist,450000,US,On-Site,US,Medium,$200K+,US
+36,2020,Mid-Level,Full-Time,Data Science Consultant,103000,US,Fully Remote,US,Large,$100K–$150K,US
+37,2020,Entry-Level,Full-Time,Machine Learning Engineer,250000,US,Hybrid,US,Large,$200K+,US
+38,2020,Entry-Level,Full-Time,Data Analyst,10000,NG,Fully Remote,NG,Small,Under $60K,International
+39,2020,Entry-Level,Full-Time,Machine Learning Engineer,138000,US,Fully Remote,US,Small,$100K–$150K,US
+40,2020,Mid-Level,Full-Time,Data Scientist,45760,PH,Fully Remote,US,Small,Under $60K,US
+43,2020,Mid-Level,Full-Time,Data Engineer,106000,US,Fully Remote,US,Large,$100K–$150K,US
+47,2020,Senior,Full-Time,Data Engineer,188000,US,Fully Remote,US,Large,$150K–$200K,US
+48,2020,Mid-Level,Full-Time,Data Scientist,105000,US,Fully Remote,US,Large,$100K–$150K,US
+51,2020,Entry-Level,Full-Time,Data Analyst,91000,US,Fully Remote,US,Large,$60K–$100K,US
+54,2020,Senior,Freelance,Computer Vision Engineer,60000,RU,Fully Remote,US,Small,$60K–$100K,US
+57,2020,Mid-Level,Full-Time,Data Scientist,118000,US,Fully Remote,US,Medium,$100K–$150K,US
+58,2020,Senior,Full-Time,Data Scientist,120000,US,Hybrid,US,Large,$100K–$150K,US
+59,2020,Mid-Level,Full-Time,Data Scientist,138350,US,Fully Remote,US,Medium,$100K–$150K,US
+60,2020,Mid-Level,Full-Time,Data Engineer,110000,US,Fully Remote,US,Large,$100K–$150K,US
+61,2020,Mid-Level,Full-Time,Data Engineer,130800,ES,Fully Remote,US,Medium,$100K–$150K,US
+63,2020,Senior,Full-Time,Data Scientist,412000,US,Fully Remote,US,Large,$200K+,US
+67,2020,Senior,Full-Time,Data Science Manager,190200,US,Fully Remote,US,Medium,$150K–$200K,US
+68,2020,Entry-Level,Full-Time,Data Scientist,105000,US,Fully Remote,US,Small,$100K–$150K,US
+73,2021,Executive,Full-Time,BI Data Analyst,150000,IN,Fully Remote,US,Large,$150K–$200K,US
+74,2021,Executive,Full-Time,Head of Data,235000,US,Fully Remote,US,Large,$200K+,US
+76,2021,Mid-Level,Full-Time,BI Data Analyst,100000,US,Fully Remote,US,Medium,$100K–$150K,US
+78,2021,Mid-Level,Contract,ML Engineer,270000,US,Fully Remote,US,Large,$200K+,US
+79,2021,Entry-Level,Full-Time,Data Analyst,80000,US,Fully Remote,US,Medium,$60K–$100K,US
+81,2021,Mid-Level,Full-Time,Data Engineer,140000,US,Fully Remote,US,Large,$100K–$150K,US
+87,2021,Mid-Level,Full-Time,Data Analytics Engineer,110000,US,Fully Remote,US,Large,$100K–$150K,US
+88,2021,Senior,Full-Time,Lead Data Analyst,170000,US,Fully Remote,US,Large,$150K–$200K,US
+89,2021,Senior,Full-Time,Data Analyst,80000,BG,Fully Remote,US,Small,$60K–$100K,US
+93,2021,Senior,Full-Time,Lead Data Engineer,276000,US,On-Site,US,Large,$200K+,US
+96,2021,Entry-Level,Part-Time,AI Scientist,12000,BR,Fully Remote,US,Small,Under $60K,US
+97,2021,Mid-Level,Full-Time,Financial Data Analyst,450000,US,Fully Remote,US,Large,$200K+,US
+98,2021,Entry-Level,Full-Time,Computer Vision Software Engineer,70000,US,Fully Remote,US,Medium,$60K–$100K,US
+100,2021,Mid-Level,Full-Time,Data Analyst,75000,US,On-Site,US,Large,$60K–$100K,US
+101,2021,Senior,Full-Time,Data Engineer,150000,US,Fully Remote,US,Large,$150K–$200K,US
+103,2021,Mid-Level,Full-Time,Data Analyst,62000,US,On-Site,US,Large,$60K–$100K,US
+104,2021,Mid-Level,Full-Time,Data Scientist,73000,US,On-Site,US,Large,$60K–$100K,US
+107,2021,Senior,Full-Time,Data Engineer,115000,US,Fully Remote,US,Small,$100K–$150K,US
+108,2021,Senior,Full-Time,Data Engineer,150000,US,Fully Remote,US,Medium,$150K–$200K,US
+113,2021,Entry-Level,Part-Time,AI Scientist,12000,PK,Fully Remote,US,Medium,Under $60K,US
+115,2021,Entry-Level,Full-Time,Machine Learning Scientist,225000,US,Fully Remote,US,Large,$200K+,US
+116,2021,Mid-Level,Full-Time,Data Scientist,50000,NG,Fully Remote,NG,Large,Under $60K,International
+118,2021,Entry-Level,Full-Time,Data Analyst,90000,US,Fully Remote,US,Small,$60K–$100K,US
+119,2021,Mid-Level,Full-Time,Data Engineer,200000,US,Fully Remote,US,Large,$200K+,US
+120,2021,Mid-Level,Full-Time,Big Data Engineer,60000,ES,Hybrid,RO,Medium,$60K–$100K,International
+121,2021,Senior,Full-Time,Principal Data Engineer,200000,US,Fully Remote,US,Medium,$200K+,US
+122,2021,Entry-Level,Full-Time,Data Analyst,50000,US,Fully Remote,US,Medium,Under $60K,US
+125,2021,Mid-Level,Full-Time,Principal Data Scientist,151000,US,Fully Remote,US,Large,$150K–$200K,US
+126,2021,Senior,Full-Time,Machine Learning Scientist,120000,US,Hybrid,US,Small,$100K–$150K,US
+128,2021,Entry-Level,Full-Time,Machine Learning Engineer,20000,IN,Fully Remote,IN,Small,Under $60K,International
+130,2021,Entry-Level,Full-Time,Machine Learning Developer,100000,IQ,Hybrid,IQ,Small,$100K–$150K,International
+132,2021,Mid-Level,Full-Time,Applied Machine Learning Scientist,38400,VN,Fully Remote,US,Medium,Under $60K,US
+133,2021,Senior,Full-Time,Computer Vision Engineer,24000,BR,Fully Remote,BR,Medium,Under $60K,International
+134,2021,Entry-Level,Full-Time,Data Scientist,100000,US,On-Site,US,Small,$100K–$150K,US
+135,2021,Mid-Level,Full-Time,Data Analyst,90000,US,Fully Remote,US,Medium,$60K–$100K,US
+138,2021,Senior,Full-Time,Principal Data Scientist,220000,US,On-Site,US,Large,$200K+,US
+139,2021,Entry-Level,Full-Time,Data Scientist,80000,US,Fully Remote,US,Medium,$60K–$100K,US
+140,2021,Mid-Level,Full-Time,Data Analyst,135000,US,Fully Remote,US,Large,$100K–$150K,US
+141,2021,Senior,Full-Time,Data Science Manager,240000,US,On-Site,US,Large,$200K+,US
+142,2021,Senior,Full-Time,Data Engineering Manager,150000,US,On-Site,US,Large,$150K–$200K,US
+143,2021,Mid-Level,Full-Time,Data Scientist,82500,US,Fully Remote,US,Small,$60K–$100K,US
+144,2021,Mid-Level,Full-Time,Data Engineer,100000,US,Fully Remote,US,Large,$100K–$150K,US
+147,2021,Mid-Level,Full-Time,Data Engineer,90000,US,Fully Remote,US,Large,$60K–$100K,US
+148,2021,Senior,Full-Time,Data Engineering Manager,153000,US,Fully Remote,US,Large,$150K–$200K,US
+149,2021,Senior,Full-Time,Cloud Data Engineer,160000,BR,Fully Remote,US,Small,$150K–$200K,US
+150,2021,Senior,Full-Time,Director of Data Science,168000,JP,On-Site,JP,Small,$150K–$200K,International
+151,2021,Mid-Level,Full-Time,Data Scientist,150000,US,Fully Remote,US,Medium,$150K–$200K,US
+153,2021,Entry-Level,Full-Time,Data Scientist,13400,UA,Fully Remote,UA,Large,Under $60K,International
+154,2021,Senior,Full-Time,Data Science Manager,144000,US,Fully Remote,US,Large,$100K–$150K,US
+157,2021,Mid-Level,Full-Time,Applied Machine Learning Scientist,423000,US,Hybrid,US,Large,$200K+,US
+158,2021,Senior,Full-Time,Data Analytics Manager,120000,US,Fully Remote,US,Medium,$100K–$150K,US
+159,2021,Entry-Level,Full-Time,Machine Learning Engineer,125000,US,Fully Remote,US,Small,$100K–$150K,US
+160,2021,Executive,Full-Time,Head of Data,230000,RU,Hybrid,RU,Large,$200K+,International
+161,2021,Executive,Full-Time,Head of Data Science,85000,RU,On-Site,RU,Medium,$60K–$100K,International
+165,2021,Senior,Full-Time,Data Specialist,165000,US,Fully Remote,US,Large,$150K–$200K,US
+166,2021,Entry-Level,Full-Time,Data Engineer,80000,US,Fully Remote,US,Large,$60K–$100K,US
+167,2021,Executive,Full-Time,Director of Data Science,250000,US,On-Site,US,Large,$200K+,US
+168,2021,Entry-Level,Full-Time,BI Data Analyst,55000,US,Hybrid,US,Small,Under $60K,US
+169,2021,Mid-Level,Full-Time,Data Architect,150000,US,Fully Remote,US,Large,$150K–$200K,US
+170,2021,Mid-Level,Full-Time,Data Architect,170000,US,Fully Remote,US,Large,$150K–$200K,US
+172,2021,Entry-Level,Full-Time,Data Analyst,60000,US,Fully Remote,US,Small,$60K–$100K,US
+173,2021,Senior,Full-Time,Principal Data Scientist,235000,US,Fully Remote,US,Large,$200K+,US
+175,2021,Senior,Full-Time,Data Engineering Manager,174000,US,Fully Remote,US,Large,$150K–$200K,US
+178,2021,Entry-Level,Full-Time,Machine Learning Engineer,81000,US,Hybrid,US,Small,$60K–$100K,US
+184,2021,Mid-Level,Freelance,Machine Learning Scientist,12000,PK,Hybrid,PK,Medium,Under $60K,International
+185,2021,Mid-Level,Full-Time,Data Engineer,4000,IR,Fully Remote,IR,Medium,Under $60K,International
+186,2021,Senior,Full-Time,Data Analytics Engineer,50000,VN,Fully Remote,GB,Medium,Under $60K,International
+189,2021,Mid-Level,Full-Time,Machine Learning Engineer,74000,JP,Hybrid,JP,Small,$60K–$100K,International
+190,2021,Senior,Full-Time,Data Science Manager,152000,US,Fully Remote,FR,Large,$150K–$200K,International
+191,2021,Entry-Level,Full-Time,Machine Learning Engineer,21844,CO,Hybrid,CO,Medium,Under $60K,International
+192,2021,Mid-Level,Full-Time,Big Data Engineer,18000,MD,On-Site,MD,Small,Under $60K,International
+193,2021,Senior,Full-Time,Data Science Manager,174000,US,Fully Remote,US,Large,$150K–$200K,US
+195,2021,Mid-Level,Full-Time,Data Scientist,147000,US,Hybrid,US,Large,$100K–$150K,US
+196,2021,Entry-Level,Full-Time,BI Data Analyst,9272,KE,Fully Remote,KE,Small,Under $60K,International
+199,2021,Entry-Level,Full-Time,Data Science Consultant,90000,US,Fully Remote,US,Small,$60K–$100K,US
+201,2021,Senior,Full-Time,Machine Learning Infrastructure Engineer,195000,US,Fully Remote,US,Medium,$150K–$200K,US
+203,2021,Senior,Full-Time,Research Scientist,50000,FR,Fully Remote,US,Small,Under $60K,US
+204,2021,Mid-Level,Full-Time,Data Scientist,160000,US,Fully Remote,US,Large,$150K–$200K,US
+206,2021,Senior,Full-Time,Machine Learning Engineer,200000,US,Fully Remote,US,Large,$200K+,US
+207,2021,Senior,Full-Time,Data Engineer,165000,US,On-Site,US,Medium,$150K–$200K,US
+208,2021,Mid-Level,Freelance,Data Engineer,20000,IT,On-Site,US,Large,Under $60K,US
+209,2021,Senior,Full-Time,Data Analytics Manager,120000,US,On-Site,US,Large,$100K–$150K,US
+215,2021,Senior,Full-Time,Principal Data Engineer,185000,US,Fully Remote,US,Large,$150K–$200K,US
+219,2021,Senior,Full-Time,Data Analytics Manager,140000,US,Fully Remote,US,Large,$100K–$150K,US
+224,2021,Senior,Full-Time,Machine Learning Scientist,225000,US,Fully Remote,CA,Large,$200K+,International
+225,2021,Executive,Contract,Principal Data Scientist,416000,US,Fully Remote,US,Small,$200K+,US
+228,2021,Senior,Full-Time,Data Scientist,135000,US,On-Site,US,Large,$100K–$150K,US
+231,2021,Senior,Full-Time,ML Engineer,256000,US,Fully Remote,US,Small,$200K+,US
+232,2021,Senior,Full-Time,Director of Data Engineering,200000,US,Fully Remote,US,Large,$200K+,US
+233,2021,Senior,Full-Time,Data Analyst,200000,US,Fully Remote,US,Large,$200K+,US
+234,2021,Mid-Level,Full-Time,Data Architect,180000,US,Fully Remote,US,Large,$150K–$200K,US
+235,2021,Mid-Level,Full-Time,Head of Data Science,110000,US,On-Site,US,Small,$100K–$150K,US
+238,2021,Entry-Level,Full-Time,Data Scientist,4000,VN,On-Site,VN,Medium,Under $60K,International
+241,2021,Mid-Level,Full-Time,Data Analyst,80000,US,Fully Remote,US,Large,$60K–$100K,US
+242,2021,Mid-Level,Full-Time,Data Engineer,110000,US,Fully Remote,US,Large,$100K–$150K,US
+243,2021,Senior,Full-Time,Data Scientist,165000,US,Fully Remote,US,Large,$150K–$200K,US
+249,2021,Senior,Full-Time,Principal Data Analyst,170000,US,Fully Remote,US,Medium,$150K–$200K,US
+250,2021,Mid-Level,Full-Time,Data Scientist,115000,US,Hybrid,US,Large,$100K–$150K,US
+251,2021,Entry-Level,Full-Time,Data Scientist,90000,US,Fully Remote,US,Small,$60K–$100K,US
+252,2021,Executive,Full-Time,Principal Data Engineer,600000,US,Fully Remote,US,Large,$200K+,US
+254,2021,Mid-Level,Full-Time,Data Analyst,93000,US,Fully Remote,US,Large,$60K–$100K,US
+256,2021,Mid-Level,Full-Time,Data Engineer,200000,US,Fully Remote,US,Large,$200K+,US
+258,2021,Senior,Full-Time,Machine Learning Engineer,185000,US,Hybrid,US,Large,$150K–$200K,US
+260,2021,Mid-Level,Full-Time,Data Scientist,130000,US,Hybrid,US,Large,$100K–$150K,US
+265,2021,Senior,Full-Time,Lead Data Engineer,160000,PR,Hybrid,US,Small,$150K–$200K,US
+266,2021,Mid-Level,Full-Time,Data Engineer,93150,US,On-Site,US,Medium,$60K–$100K,US
+267,2021,Mid-Level,Full-Time,Data Engineer,111775,US,On-Site,US,Medium,$100K–$150K,US
+270,2021,Entry-Level,Full-Time,Data Engineer,72500,US,Fully Remote,US,Large,$60K–$100K,US
+273,2021,Entry-Level,Full-Time,Machine Learning Engineer,85000,NL,Fully Remote,DE,Small,$60K–$100K,International
+275,2021,Entry-Level,Full-Time,Data Scientist,100000,US,Fully Remote,US,Medium,$100K–$150K,US
+276,2021,Entry-Level,Full-Time,Data Scientist,58000,US,Hybrid,US,Large,Under $60K,US
+277,2021,Senior,Full-Time,AI Scientist,55000,ES,Fully Remote,ES,Large,Under $60K,International
+280,2021,Mid-Level,Full-Time,Data Engineer,112000,US,Fully Remote,US,Large,$100K–$150K,US
+281,2021,Entry-Level,Full-Time,Research Scientist,100000,JE,On-Site,CN,Large,$100K–$150K,International
+283,2021,Senior,Contract,Staff Data Scientist,105000,US,Fully Remote,US,Medium,$100K–$150K,US
+284,2021,Mid-Level,Full-Time,Research Scientist,69999,CZ,Hybrid,CZ,Large,$60K–$100K,International
+287,2021,Mid-Level,Full-Time,Data Scientist,109000,US,Hybrid,US,Large,$100K–$150K,US
+289,2022,Senior,Full-Time,Data Engineer,135000,US,Fully Remote,US,Medium,$100K–$150K,US
+290,2022,Senior,Full-Time,Data Analyst,155000,US,Fully Remote,US,Medium,$150K–$200K,US
+291,2022,Senior,Full-Time,Data Analyst,120600,US,Fully Remote,US,Medium,$100K–$150K,US
+292,2022,Mid-Level,Full-Time,Data Scientist,130000,US,On-Site,US,Medium,$100K–$150K,US
+293,2022,Mid-Level,Full-Time,Data Scientist,90000,US,On-Site,US,Medium,$60K–$100K,US
+294,2022,Mid-Level,Full-Time,Data Engineer,170000,US,Fully Remote,US,Medium,$150K–$200K,US
+295,2022,Mid-Level,Full-Time,Data Engineer,150000,US,Fully Remote,US,Medium,$150K–$200K,US
+296,2022,Senior,Full-Time,Data Analyst,102100,US,Fully Remote,US,Medium,$100K–$150K,US
+297,2022,Senior,Full-Time,Data Analyst,84900,US,Fully Remote,US,Medium,$60K–$100K,US
+298,2022,Senior,Full-Time,Data Scientist,136620,US,Fully Remote,US,Medium,$100K–$150K,US
+299,2022,Senior,Full-Time,Data Scientist,99360,US,Fully Remote,US,Medium,$60K–$100K,US
+302,2022,Senior,Full-Time,Data Scientist,146000,US,Fully Remote,US,Medium,$100K–$150K,US
+303,2022,Senior,Full-Time,Data Scientist,123000,US,Fully Remote,US,Medium,$100K–$150K,US
+305,2022,Senior,Full-Time,Data Analyst,99000,US,On-Site,US,Medium,$60K–$100K,US
+306,2022,Senior,Full-Time,Data Analyst,116000,US,On-Site,US,Medium,$100K–$150K,US
+307,2022,Mid-Level,Full-Time,Data Analyst,106260,US,On-Site,US,Medium,$100K–$150K,US
+308,2022,Mid-Level,Full-Time,Data Analyst,126500,US,On-Site,US,Medium,$100K–$150K,US
+309,2022,Executive,Full-Time,Data Engineer,242000,US,Fully Remote,US,Medium,$200K+,US
+310,2022,Executive,Full-Time,Data Engineer,200000,US,Fully Remote,US,Medium,$200K+,US
+315,2022,Senior,Full-Time,Data Scientist,165220,US,Fully Remote,US,Medium,$150K–$200K,US
+317,2022,Senior,Full-Time,Data Scientist,120160,US,Fully Remote,US,Medium,$100K–$150K,US
+318,2022,Senior,Full-Time,Data Analyst,90320,US,Fully Remote,US,Medium,$60K–$100K,US
+319,2022,Senior,Full-Time,Data Engineer,181940,US,On-Site,US,Medium,$150K–$200K,US
+320,2022,Senior,Full-Time,Data Engineer,132320,US,On-Site,US,Medium,$100K–$150K,US
+321,2022,Senior,Full-Time,Data Engineer,220110,US,On-Site,US,Medium,$200K+,US
+322,2022,Senior,Full-Time,Data Engineer,160080,US,On-Site,US,Medium,$150K–$200K,US
+323,2022,Senior,Full-Time,Data Scientist,180000,US,On-Site,US,Large,$150K–$200K,US
+324,2022,Senior,Full-Time,Data Scientist,120000,US,On-Site,US,Large,$100K–$150K,US
+325,2022,Senior,Full-Time,Data Analyst,124190,US,Fully Remote,US,Medium,$100K–$150K,US
+326,2022,Executive,Full-Time,Data Analyst,130000,US,Fully Remote,US,Medium,$100K–$150K,US
+327,2022,Executive,Full-Time,Data Analyst,110000,US,Fully Remote,US,Medium,$100K–$150K,US
+328,2022,Senior,Full-Time,Data Analyst,170000,US,Fully Remote,US,Medium,$150K–$200K,US
+329,2022,Mid-Level,Full-Time,Data Analyst,115500,US,Fully Remote,US,Medium,$100K–$150K,US
+330,2022,Senior,Full-Time,Data Analyst,112900,US,Fully Remote,US,Medium,$100K–$150K,US
+331,2022,Senior,Full-Time,Data Analyst,90320,US,Fully Remote,US,Medium,$60K–$100K,US
+332,2022,Senior,Full-Time,Data Analyst,112900,US,Fully Remote,US,Medium,$100K–$150K,US
+333,2022,Senior,Full-Time,Data Analyst,90320,US,Fully Remote,US,Medium,$60K–$100K,US
+334,2022,Senior,Full-Time,Data Engineer,165400,US,Fully Remote,US,Medium,$150K–$200K,US
+335,2022,Senior,Full-Time,Data Engineer,132320,US,Fully Remote,US,Medium,$100K–$150K,US
+336,2022,Mid-Level,Full-Time,Data Analyst,167000,US,Fully Remote,US,Medium,$150K–$200K,US
+337,2022,Senior,Full-Time,Data Engineer,243900,US,Fully Remote,US,Medium,$200K+,US
+338,2022,Senior,Full-Time,Data Analyst,136600,US,Fully Remote,US,Medium,$100K–$150K,US
+339,2022,Senior,Full-Time,Data Analyst,109280,US,Fully Remote,US,Medium,$100K–$150K,US
+340,2022,Senior,Full-Time,Data Engineer,128875,US,Fully Remote,US,Medium,$100K–$150K,US
+341,2022,Senior,Full-Time,Data Engineer,93700,US,Fully Remote,US,Medium,$60K–$100K,US
+342,2022,Executive,Full-Time,Head of Data Science,224000,US,Fully Remote,US,Medium,$200K+,US
+343,2022,Executive,Full-Time,Head of Data Science,167875,US,Fully Remote,US,Medium,$150K–$200K,US
+344,2022,Executive,Full-Time,Analytics Engineer,175000,US,Fully Remote,US,Medium,$150K–$200K,US
+345,2022,Senior,Full-Time,Data Engineer,156600,US,Fully Remote,US,Medium,$150K–$200K,US
+346,2022,Senior,Full-Time,Data Engineer,108800,US,On-Site,US,Medium,$100K–$150K,US
+347,2022,Senior,Full-Time,Data Scientist,95550,US,On-Site,US,Medium,$60K–$100K,US
+348,2022,Senior,Full-Time,Data Engineer,113000,US,On-Site,US,Large,$100K–$150K,US
+349,2022,Senior,Full-Time,Data Analyst,135000,US,Fully Remote,US,Medium,$100K–$150K,US
+350,2022,Senior,Full-Time,Data Science Manager,161342,US,Fully Remote,US,Medium,$150K–$200K,US
+351,2022,Senior,Full-Time,Data Science Manager,137141,US,Fully Remote,US,Medium,$100K–$150K,US
+352,2022,Senior,Full-Time,Data Scientist,167000,US,Fully Remote,US,Medium,$150K–$200K,US
+353,2022,Senior,Full-Time,Data Scientist,123000,US,Fully Remote,US,Medium,$100K–$150K,US
+356,2022,Senior,Full-Time,Data Scientist,150000,US,On-Site,US,Medium,$150K–$200K,US
+357,2022,Senior,Full-Time,Data Scientist,211500,US,Fully Remote,US,Medium,$200K+,US
+358,2022,Senior,Full-Time,Data Architect,192400,CA,Fully Remote,CA,Medium,$150K–$200K,International
+359,2022,Senior,Full-Time,Data Architect,90700,CA,Fully Remote,CA,Medium,$60K–$100K,International
+360,2022,Senior,Full-Time,Data Analyst,130000,CA,Fully Remote,CA,Medium,$100K–$150K,International
+361,2022,Senior,Full-Time,Data Analyst,61300,CA,Fully Remote,CA,Medium,$60K–$100K,International
+362,2022,Senior,Full-Time,Data Analyst,130000,CA,Fully Remote,CA,Medium,$100K–$150K,International
+363,2022,Senior,Full-Time,Data Analyst,61300,CA,Fully Remote,CA,Medium,$60K–$100K,International
+364,2022,Senior,Full-Time,Data Engineer,160000,US,On-Site,US,Large,$150K–$200K,US
+365,2022,Senior,Full-Time,Data Scientist,138600,US,Fully Remote,US,Medium,$100K–$150K,US
+366,2022,Senior,Full-Time,Data Engineer,136000,US,On-Site,US,Medium,$100K–$150K,US
+367,2022,Mid-Level,Full-Time,Data Analyst,58000,US,On-Site,US,Small,Under $60K,US
+368,2022,Executive,Full-Time,Analytics Engineer,135000,US,Fully Remote,US,Medium,$100K–$150K,US
+369,2022,Senior,Full-Time,Data Scientist,170000,US,Fully Remote,US,Medium,$150K–$200K,US
+370,2022,Senior,Full-Time,Data Scientist,123000,US,Fully Remote,US,Medium,$100K–$150K,US
+371,2022,Senior,Full-Time,Machine Learning Engineer,189650,US,On-Site,US,Medium,$150K–$200K,US
+372,2022,Senior,Full-Time,Machine Learning Engineer,164996,US,On-Site,US,Medium,$150K–$200K,US
+376,2022,Senior,Full-Time,Data Analyst,132000,US,On-Site,US,Medium,$100K–$150K,US
+377,2022,Senior,Full-Time,Data Engineer,165400,US,Fully Remote,US,Medium,$150K–$200K,US
+378,2022,Senior,Full-Time,Data Architect,208775,US,Fully Remote,US,Medium,$200K+,US
+379,2022,Senior,Full-Time,Data Architect,147800,US,Fully Remote,US,Medium,$100K–$150K,US
+380,2022,Senior,Full-Time,Data Engineer,136994,US,Fully Remote,US,Medium,$100K–$150K,US
+381,2022,Senior,Full-Time,Data Engineer,101570,US,Fully Remote,US,Medium,$100K–$150K,US
+382,2022,Senior,Full-Time,Data Analyst,128875,US,Fully Remote,US,Medium,$100K–$150K,US
+383,2022,Senior,Full-Time,Data Analyst,93700,US,Fully Remote,US,Medium,$60K–$100K,US
+385,2022,Senior,Full-Time,Data Engineer,132320,US,Fully Remote,US,Medium,$100K–$150K,US
+387,2022,Senior,Full-Time,Data Analyst,164000,US,On-Site,US,Medium,$150K–$200K,US
+388,2022,Senior,Full-Time,Data Engineer,155000,US,Fully Remote,US,Medium,$150K–$200K,US
+391,2022,Mid-Level,Full-Time,AI Scientist,120000,US,On-Site,US,Medium,$100K–$150K,US
+392,2022,Senior,Full-Time,Data Analyst,112900,US,Fully Remote,US,Medium,$100K–$150K,US
+393,2022,Senior,Full-Time,Data Analyst,90320,US,Fully Remote,US,Medium,$60K–$100K,US
+394,2022,Senior,Full-Time,Data Analytics Manager,145000,US,Fully Remote,US,Medium,$100K–$150K,US
+395,2022,Senior,Full-Time,Data Analytics Manager,105400,US,Fully Remote,US,Medium,$100K–$150K,US
+398,2022,Senior,Full-Time,Data Scientist,215300,US,Fully Remote,US,Large,$200K+,US
+399,2022,Senior,Full-Time,Data Scientist,158200,US,Fully Remote,US,Large,$150K–$200K,US
+400,2022,Senior,Full-Time,Data Engineer,209100,US,Fully Remote,US,Large,$200K+,US
+401,2022,Senior,Full-Time,Data Engineer,154600,US,Fully Remote,US,Large,$150K–$200K,US
+402,2022,Senior,Full-Time,Data Analyst,115934,US,On-Site,US,Medium,$100K–$150K,US
+403,2022,Senior,Full-Time,Data Analyst,81666,US,On-Site,US,Medium,$60K–$100K,US
+404,2022,Senior,Full-Time,Data Engineer,175000,US,Fully Remote,US,Medium,$150K–$200K,US
+406,2022,Mid-Level,Full-Time,Data Analyst,58000,US,On-Site,US,Small,Under $60K,US
+407,2022,Senior,Full-Time,Data Engineer,183600,US,Fully Remote,US,Large,$150K–$200K,US
+409,2022,Senior,Full-Time,Data Scientist,180000,US,Fully Remote,US,Medium,$150K–$200K,US
+416,2022,Senior,Full-Time,Data Scientist,260000,US,Fully Remote,US,Medium,$200K+,US
+417,2022,Senior,Full-Time,Data Science Engineer,60000,AR,Fully Remote,MX,Large,$60K–$100K,International
+418,2022,Mid-Level,Full-Time,Data Engineer,63900,US,On-Site,US,Medium,$60K–$100K,US
+419,2022,Mid-Level,Full-Time,Machine Learning Scientist,160000,US,Fully Remote,US,Large,$150K–$200K,US
+420,2022,Mid-Level,Full-Time,Machine Learning Scientist,112300,US,Fully Remote,US,Large,$100K–$150K,US
+421,2022,Mid-Level,Full-Time,Data Science Manager,241000,US,Fully Remote,US,Medium,$200K+,US
+422,2022,Mid-Level,Full-Time,Data Science Manager,159000,US,Fully Remote,US,Medium,$150K–$200K,US
+423,2022,Senior,Full-Time,Data Scientist,180000,US,On-Site,US,Medium,$150K–$200K,US
+424,2022,Senior,Full-Time,Data Scientist,80000,US,On-Site,US,Medium,$60K–$100K,US
+425,2022,Mid-Level,Full-Time,Data Engineer,82900,US,On-Site,US,Medium,$60K–$100K,US
+426,2022,Senior,Full-Time,Data Engineer,100800,US,Fully Remote,US,Large,$100K–$150K,US
+428,2022,Senior,Full-Time,Data Scientist,140400,US,On-Site,US,Large,$100K–$150K,US
+438,2022,Senior,Full-Time,Machine Learning Engineer,189650,US,On-Site,US,Medium,$150K–$200K,US
+439,2022,Senior,Full-Time,Machine Learning Engineer,164996,US,On-Site,US,Medium,$150K–$200K,US
+444,2022,Senior,Full-Time,Data Scientist,215300,US,On-Site,US,Large,$200K+,US
+446,2022,Senior,Full-Time,Data Engineer,209100,US,Fully Remote,US,Large,$200K+,US
+447,2022,Senior,Full-Time,Data Engineer,154600,US,Fully Remote,US,Large,$150K–$200K,US
+448,2022,Senior,Full-Time,Data Engineer,180000,US,Fully Remote,US,Medium,$150K–$200K,US
+450,2022,Senior,Full-Time,Data Engineer,80000,US,Fully Remote,US,Medium,$60K–$100K,US
+453,2022,Mid-Level,Full-Time,Machine Learning Engineer,120000,US,Fully Remote,US,Small,$100K–$150K,US
+454,2022,Entry-Level,Full-Time,Computer Vision Engineer,125000,US,On-Site,US,Medium,$100K–$150K,US
+456,2022,Senior,Full-Time,Data Engineer,105000,US,Fully Remote,US,Medium,$100K–$150K,US
+461,2022,Entry-Level,Full-Time,Financial Data Analyst,100000,US,Hybrid,US,Large,$100K–$150K,US
+465,2022,Entry-Level,Full-Time,Data Engineer,120000,US,Fully Remote,US,Medium,$100K–$150K,US
+466,2022,Senior,Full-Time,Research Scientist,144000,US,Hybrid,US,Large,$100K–$150K,US
+467,2022,Senior,Full-Time,Data Scientist,104890,US,Fully Remote,US,Medium,$100K–$150K,US
+468,2022,Senior,Full-Time,Data Engineer,100000,US,Fully Remote,US,Medium,$100K–$150K,US
+469,2022,Senior,Full-Time,Data Scientist,140000,US,Fully Remote,US,Medium,$100K–$150K,US
+470,2022,Mid-Level,Full-Time,Data Analyst,135000,US,Fully Remote,US,Medium,$100K–$150K,US
+471,2022,Mid-Level,Full-Time,Data Analyst,50000,US,Fully Remote,US,Medium,Under $60K,US
+472,2022,Senior,Full-Time,Data Scientist,220000,US,Fully Remote,US,Medium,$200K+,US
+473,2022,Senior,Full-Time,Data Scientist,140000,US,Fully Remote,US,Medium,$100K–$150K,US
+476,2022,Senior,Full-Time,Data Scientist,185100,US,Fully Remote,US,Medium,$150K–$200K,US
+477,2022,Senior,Full-Time,Machine Learning Engineer,220000,US,Fully Remote,US,Medium,$200K+,US
+478,2022,Mid-Level,Full-Time,Data Scientist,200000,US,Fully Remote,US,Medium,$200K+,US
+479,2022,Mid-Level,Full-Time,Data Scientist,120000,US,Fully Remote,US,Medium,$100K–$150K,US
+480,2022,Senior,Full-Time,Machine Learning Engineer,120000,AE,Fully Remote,AE,Small,$100K–$150K,International
+481,2022,Senior,Full-Time,Machine Learning Engineer,65000,AE,Fully Remote,AE,Small,$60K–$100K,International
+482,2022,Executive,Full-Time,Data Engineer,324000,US,Fully Remote,US,Medium,$200K+,US
+483,2022,Executive,Full-Time,Data Engineer,216000,US,Fully Remote,US,Medium,$200K+,US
+484,2022,Senior,Full-Time,Data Engineer,210000,US,Fully Remote,US,Medium,$200K+,US
+485,2022,Senior,Full-Time,Machine Learning Engineer,120000,US,Fully Remote,US,Medium,$100K–$150K,US
+486,2022,Senior,Full-Time,Data Scientist,230000,US,Fully Remote,US,Medium,$200K+,US
+487,2022,Entry-Level,Part-Time,Data Scientist,100000,DZ,Hybrid,DZ,Medium,$100K–$150K,International
+488,2022,Mid-Level,Freelance,Data Scientist,100000,CA,Fully Remote,US,Medium,$100K–$150K,US
+490,2022,Senior,Full-Time,Head of Data,200000,MY,Fully Remote,US,Medium,$200K+,US
+491,2022,Mid-Level,Full-Time,Principal Data Analyst,75000,CA,Fully Remote,CA,Small,$60K–$100K,International
+494,2022,Senior,Full-Time,Data Scientist,100000,BR,Fully Remote,US,Medium,$100K–$150K,US
+495,2022,Mid-Level,Full-Time,Machine Learning Scientist,153000,US,Hybrid,US,Medium,$150K–$200K,US
+497,2022,Senior,Full-Time,Data Scientist,165000,US,Fully Remote,US,Medium,$150K–$200K,US
+502,2022,Entry-Level,Full-Time,Data Scientist,40000,JP,Fully Remote,MY,Large,Under $60K,International
+504,2022,Senior,Full-Time,Data Engineer,115000,US,Fully Remote,US,Medium,$100K–$150K,US
+506,2022,Mid-Level,Full-Time,Applied Machine Learning Scientist,75000,BO,Fully Remote,US,Large,$60K–$100K,US
+508,2022,Entry-Level,Full-Time,Research Scientist,120000,US,Fully Remote,US,Large,$100K–$150K,US
+509,2022,Mid-Level,Full-Time,Applied Data Scientist,157000,US,Fully Remote,US,Large,$150K–$200K,US
+510,2022,Entry-Level,Full-Time,Computer Vision Software Engineer,150000,AU,Fully Remote,AU,Small,$150K–$200K,International
+512,2022,Entry-Level,Full-Time,Data Engineer,65000,US,Fully Remote,US,Small,$60K–$100K,US
+514,2022,Entry-Level,Full-Time,Data Analytics Engineer,20000,PK,On-Site,PK,Medium,Under $60K,International
+515,2022,Mid-Level,Full-Time,Data Scientist,48000,RU,Fully Remote,US,Small,Under $60K,US
+516,2022,Senior,Full-Time,Data Science Manager,152500,US,Fully Remote,US,Medium,$150K–$200K,US
+519,2022,Senior,Full-Time,Applied Data Scientist,380000,US,Fully Remote,US,Large,$200K+,US
+521,2022,Entry-Level,Full-Time,Computer Vision Engineer,10000,PT,Fully Remote,LU,Medium,Under $60K,International
+522,2022,Mid-Level,Full-Time,Data Analyst,20000,GR,Fully Remote,GR,Small,Under $60K,International
+523,2022,Senior,Full-Time,Data Analytics Lead,405000,US,Fully Remote,US,Large,$200K+,US
+524,2022,Mid-Level,Full-Time,Data Scientist,135000,US,Fully Remote,US,Large,$100K–$150K,US
+525,2022,Senior,Full-Time,Applied Data Scientist,177000,US,Fully Remote,US,Large,$150K–$200K,US
+526,2022,Mid-Level,Full-Time,Data Scientist,78000,US,Fully Remote,US,Medium,$60K–$100K,US
+527,2022,Senior,Full-Time,Data Analyst,135000,US,Fully Remote,US,Medium,$100K–$150K,US
+528,2022,Senior,Full-Time,Data Analyst,100000,US,Fully Remote,US,Medium,$100K–$150K,US
+529,2022,Senior,Full-Time,Data Analyst,90320,US,Fully Remote,US,Medium,$60K–$100K,US
+530,2022,Mid-Level,Full-Time,Data Analyst,85000,CA,On-Site,CA,Medium,$60K–$100K,International
+531,2022,Mid-Level,Full-Time,Data Analyst,75000,CA,On-Site,CA,Medium,$60K–$100K,International
+532,2022,Senior,Full-Time,Machine Learning Engineer,214000,US,Fully Remote,US,Medium,$200K+,US
+533,2022,Senior,Full-Time,Machine Learning Engineer,192600,US,Fully Remote,US,Medium,$150K–$200K,US
+534,2022,Senior,Full-Time,Data Architect,266400,US,Fully Remote,US,Medium,$200K+,US
+535,2022,Senior,Full-Time,Data Architect,213120,US,Fully Remote,US,Medium,$200K+,US
+536,2022,Senior,Full-Time,Data Analyst,112900,US,Fully Remote,US,Medium,$100K–$150K,US
+537,2022,Senior,Full-Time,Data Engineer,155000,US,Fully Remote,US,Medium,$150K–$200K,US
+538,2022,Mid-Level,Full-Time,Data Scientist,141300,US,On-Site,US,Medium,$100K–$150K,US
+539,2022,Mid-Level,Full-Time,Data Scientist,102100,US,On-Site,US,Medium,$100K–$150K,US
+540,2022,Senior,Full-Time,Data Analyst,115934,US,Fully Remote,US,Medium,$100K–$150K,US
+541,2022,Senior,Full-Time,Data Analyst,81666,US,Fully Remote,US,Medium,$60K–$100K,US
+542,2022,Mid-Level,Full-Time,Data Engineer,206699,US,On-Site,US,Medium,$200K+,US
+543,2022,Mid-Level,Full-Time,Data Engineer,99100,US,On-Site,US,Medium,$60K–$100K,US
+544,2022,Senior,Full-Time,Data Engineer,130000,US,Fully Remote,US,Medium,$100K–$150K,US
+545,2022,Senior,Full-Time,Data Engineer,115000,US,Fully Remote,US,Medium,$100K–$150K,US
+546,2022,Senior,Full-Time,Data Engineer,110500,US,Fully Remote,US,Medium,$100K–$150K,US
+547,2022,Senior,Full-Time,Data Engineer,130000,US,Fully Remote,US,Medium,$100K–$150K,US
+548,2022,Senior,Full-Time,Data Analyst,99050,US,Fully Remote,US,Medium,$60K–$100K,US
+549,2022,Senior,Full-Time,Data Engineer,160000,US,Fully Remote,US,Medium,$150K–$200K,US
+550,2022,Senior,Full-Time,Data Scientist,205300,US,On-Site,US,Large,$200K+,US
+551,2022,Senior,Full-Time,Data Scientist,140400,US,On-Site,US,Large,$100K–$150K,US
+552,2022,Senior,Full-Time,Data Scientist,176000,US,Fully Remote,US,Medium,$150K–$200K,US
+553,2022,Senior,Full-Time,Data Scientist,144000,US,Fully Remote,US,Medium,$100K–$150K,US
+554,2022,Senior,Full-Time,Data Engineer,200100,US,Fully Remote,US,Medium,$200K+,US
+555,2022,Senior,Full-Time,Data Engineer,160000,US,Fully Remote,US,Medium,$150K–$200K,US
+556,2022,Senior,Full-Time,Data Engineer,145000,US,Fully Remote,US,Medium,$100K–$150K,US
+557,2022,Senior,Full-Time,Data Engineer,70500,US,On-Site,US,Medium,$60K–$100K,US
+558,2022,Senior,Full-Time,Data Scientist,205300,US,On-Site,US,Medium,$200K+,US
+559,2022,Senior,Full-Time,Data Scientist,140400,US,On-Site,US,Medium,$100K–$150K,US
+560,2022,Senior,Full-Time,Analytics Engineer,205300,US,On-Site,US,Medium,$200K+,US
+561,2022,Senior,Full-Time,Analytics Engineer,184700,US,On-Site,US,Medium,$150K–$200K,US
+562,2022,Senior,Full-Time,Data Engineer,175100,US,Fully Remote,US,Medium,$150K–$200K,US
+563,2022,Senior,Full-Time,Data Engineer,140250,US,Fully Remote,US,Medium,$100K–$150K,US
+564,2022,Senior,Full-Time,Data Analyst,116150,US,Fully Remote,US,Medium,$100K–$150K,US
+565,2022,Senior,Full-Time,Data Engineer,54000,US,On-Site,US,Medium,Under $60K,US
+566,2022,Senior,Full-Time,Data Analyst,170000,US,Fully Remote,US,Medium,$150K–$200K,US
+568,2022,Senior,Full-Time,Data Analyst,80000,US,Fully Remote,US,Medium,$60K–$100K,US
+569,2022,Senior,Full-Time,Data Scientist,140000,US,Fully Remote,US,Medium,$100K–$150K,US
+570,2022,Senior,Full-Time,Data Scientist,210000,US,Fully Remote,US,Medium,$200K+,US
+571,2022,Senior,Full-Time,Data Scientist,140000,US,Fully Remote,US,Medium,$100K–$150K,US
+572,2022,Senior,Full-Time,Data Analyst,100000,US,Fully Remote,US,Medium,$100K–$150K,US
+573,2022,Senior,Full-Time,Data Analyst,69000,US,Fully Remote,US,Medium,$60K–$100K,US
+574,2022,Senior,Full-Time,Data Scientist,210000,US,Fully Remote,US,Medium,$200K+,US
+575,2022,Senior,Full-Time,Data Scientist,140000,US,Fully Remote,US,Medium,$100K–$150K,US
+576,2022,Senior,Full-Time,Data Scientist,210000,US,Fully Remote,US,Medium,$200K+,US
+577,2022,Senior,Full-Time,Data Analyst,150075,US,Fully Remote,US,Medium,$150K–$200K,US
+578,2022,Senior,Full-Time,Data Engineer,100000,US,Fully Remote,US,Medium,$100K–$150K,US
+579,2022,Senior,Full-Time,Data Engineer,25000,US,Fully Remote,US,Medium,Under $60K,US
+580,2022,Senior,Full-Time,Data Analyst,126500,US,Fully Remote,US,Medium,$100K–$150K,US
+581,2022,Senior,Full-Time,Data Analyst,106260,US,Fully Remote,US,Medium,$100K–$150K,US
+582,2022,Senior,Full-Time,Data Engineer,220110,US,Fully Remote,US,Medium,$200K+,US
+583,2022,Senior,Full-Time,Data Engineer,160080,US,Fully Remote,US,Medium,$150K–$200K,US
+584,2022,Senior,Full-Time,Data Analyst,105000,US,Fully Remote,US,Medium,$100K–$150K,US
+585,2022,Senior,Full-Time,Data Analyst,110925,US,Fully Remote,US,Medium,$100K–$150K,US
+587,2022,Senior,Full-Time,Data Scientist,140000,US,Fully Remote,US,Medium,$100K–$150K,US
+588,2022,Senior,Full-Time,Data Analyst,99000,US,On-Site,US,Medium,$60K–$100K,US
+589,2022,Senior,Full-Time,Data Analyst,60000,US,Fully Remote,US,Medium,$60K–$100K,US
+590,2022,Senior,Full-Time,Data Architect,192564,US,Fully Remote,US,Medium,$150K–$200K,US
+591,2022,Senior,Full-Time,Data Architect,144854,US,Fully Remote,US,Medium,$100K–$150K,US
+592,2022,Senior,Full-Time,Data Scientist,230000,US,Fully Remote,US,Medium,$200K+,US
+593,2022,Senior,Full-Time,Data Scientist,150000,US,Fully Remote,US,Medium,$150K–$200K,US
+594,2022,Senior,Full-Time,Data Analytics Manager,150260,US,Fully Remote,US,Medium,$150K–$200K,US
+595,2022,Senior,Full-Time,Data Analytics Manager,109280,US,Fully Remote,US,Medium,$100K–$150K,US
+596,2022,Senior,Full-Time,Data Scientist,210000,US,Fully Remote,US,Medium,$200K+,US
+597,2022,Senior,Full-Time,Data Analyst,170000,US,Fully Remote,US,Medium,$150K–$200K,US
+598,2022,Mid-Level,Full-Time,Data Scientist,160000,US,Fully Remote,US,Medium,$150K–$200K,US
+599,2022,Mid-Level,Full-Time,Data Scientist,130000,US,Fully Remote,US,Medium,$100K–$150K,US
+600,2022,Entry-Level,Full-Time,Data Analyst,67000,CA,On-Site,CA,Medium,$60K–$100K,International
+601,2022,Entry-Level,Full-Time,Data Analyst,52000,CA,On-Site,CA,Medium,Under $60K,International
+602,2022,Senior,Full-Time,Data Engineer,154000,US,Fully Remote,US,Medium,$150K–$200K,US
+603,2022,Senior,Full-Time,Data Engineer,126000,US,Fully Remote,US,Medium,$100K–$150K,US
+604,2022,Senior,Full-Time,Data Analyst,129000,US,On-Site,US,Medium,$100K–$150K,US
+605,2022,Senior,Full-Time,Data Analyst,150000,US,Fully Remote,US,Medium,$150K–$200K,US
+606,2022,Mid-Level,Full-Time,AI Scientist,200000,IN,Fully Remote,US,Large,$200K+,US
